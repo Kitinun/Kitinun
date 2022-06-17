@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=Kitinun&icon=0&color=0)](https://visitcount.itsvg.in)
-# 🎧 Playing Music Now..
+# 🎧 Playing Music Now.....
 <p align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=21zedh3eytjvrpcvaltr5lfuy&redirect=true">
         <img height="250em" src="https://spotify-github-profile.vercel.app/api/view?uid=21zedh3eytjvrpcvaltr5lfuy&cover_image=true&theme=default"/>

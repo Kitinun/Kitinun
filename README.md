@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi there, I'm Kitinun! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Kitinun!&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62" width="100%"/>
+  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Passionate+about+Coding;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Passionate+about+Coding;Software+Developer;Lifelong+Learner" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,55 +17,51 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Framework]**
-- 👯 I’m looking to collaborate on **[Project Idea]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Tell a fun fact about yourself!]**
+<!-- แบ่งคอลัมน์ซ้าย-ขวา -->
+<table width="100%" style="border:none;">
+  <tr style="border:none;">
+    <td width="50%" valign="top" style="border:none;">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 I’m currently working on <b>[Project Name]</b></li>
+        <li>🌱 I’m currently learning <b>[Technology]</b></li>
+        <li>👯 I’m looking to collaborate on <b>[Ideas]</b></li>
+        <li>📫 How to reach me: <b>[Email/LinkedIn]</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border:none;">
+      <h3>📊 GitHub Streak</h3>
+      <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kitinun&theme=gotham&hide_border=true" width="100%" alt="GitHub Streak" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Tools
 
-**Frontend**
-<p>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-**Backend & Database**
-<p>
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-**Tools & Design**
-<p>
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/>
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,python,java,kotlin,php,mysql,npm,figma,ps,postman&perline=15" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Profile Views
+### 🐍 My Contributions 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kitinun&theme=gotham&hide_border=true" alt="GitHub Stats"/>
-  <br/><br/>
+  <!-- ภาพงูจะแสดงตรงนี้หลังจากที่คุณตั้งค่า GitHub Actions เสร็จ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kitinun/Kitinun/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kitinun/Kitinun/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kitinun/Kitinun/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kitinun&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>

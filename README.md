@@ -112,10 +112,12 @@
   </picture>
 </div>
 
-<br/>
-<div align="center">
-  <!-- รูปแมวน้อยพิมพ์คอมพิวเตอร์ -->
-  <img src="https://media.giphy.com/media/L0G8hW6x8G19i/giphy.gif" width="120" />
-  <br/>
+<br/><br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/mac.gif" width="120" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kitinun&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+</p>

@@ -1,6 +1,9 @@
 <div align="center">
+  <!-- แบนเนอร์ -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Kitinun!&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62" width="100%" style="border-radius: 15px;"/>
   <br/>
+  
+  <!-- Typing Text -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React,+Node.js,+Next.js;Passionate+about+Web+Tech" alt="Typing SVG" />
   </a>
@@ -17,6 +20,13 @@
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+<!-- 🎵 SPOTIFY WIDGET 🎵 -->
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=21zedh3eytjvrpcvaltr5lfuy" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21zedh3eytjvrpcvaltr5lfuy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
@@ -41,9 +51,18 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+<!-- 📈 ADVANCED STATS DASHBOARD 📈 -->
 <div align="center">
-  <h3>📊 GitHub Streak</h3>
+  <h3>📉 GitHub Activity Graph</h3>
+  <!-- กราฟเส้นแสดงกิจกรรมการ Commit ทั้งปี -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kitinun&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  
+  <br/><br/>
+  
+  <h3>📊 GitHub Streak & WakaTime</h3>
+  <!-- แถวซ้าย: Streak | แถวขวา: WakaTime (ถ้าคุณสมัคร WakaTime แล้ว ให้เอาคอมเมนต์ออกครับ) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kitinun&theme=gotham&hide_border=true" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kitinun&layout=compact&theme=gotham&hide_border=true" alt="WakaTime Stats" /> -->
 </div>
 
 <br/>
@@ -95,6 +114,7 @@
 
 <br/>
 <div align="center">
+  <!-- รูปแมวน้อยพิมพ์คอมพิวเตอร์ -->
   <img src="https://media.giphy.com/media/L0G8hW6x8G19i/giphy.gif" width="120" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Kitinun&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />

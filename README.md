@@ -73,13 +73,13 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=10" />
 </a>
-<br/><br/>
+<br/>
     
 <b>⚙️ Backend, Database and DevOps</b><br/><br/>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,docker,git&perline=10" />
 </a>
-<br/><br/>
+<br/>
     
 <b>🛠 Tools, Design and CMS</b><br/><br/>
 <a href="https://skillicons.dev">
@@ -104,8 +104,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kitinun/Kitinun/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<br/>
 
 <br/>
 

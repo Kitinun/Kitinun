@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- ตรงนี้ผมเพิ่มขอบมน (border-radius) ให้แบนเนอร์ดูสมูทขึ้นครับ -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Kitinun!&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62" width="100%" style="border-radius: 15px;"/>
   <br/>
   <a href="https://git.io/typing-svg">
@@ -19,13 +18,13 @@
   </a>
 </p>
 
----
+<!-- เส้นแบ่ง Aqua -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <table width="100%" style="border:none;">
   <tr style="border:none;">
-    <td width="50%" valign="top" style="border:none;">
-      <!-- ใส่ GIF น้องโบกมือไว้ข้างๆ หัวข้อ -->
-      <h3>👨‍💻 About Me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/></h3>
+    <td width="60%" valign="top" style="border:none;">
+      <h3>👨‍💻 About Me</h3>
       <ul>
         <li>🔭 I’m currently working as a <b>Full Stack Developer.</b></li>
         <li>🌱 Specializing in <b>React, Node.js, Next.js, and modern web tech.</b></li>
@@ -34,43 +33,59 @@
         <li>📫 How to reach me: <b>Via links above.</b></li>
       </ul>
     </td>
-    <td width="50%" valign="top" align="center" style="border:none;">
-      <h3>📊 GitHub Streak</h3>
-      <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kitinun&theme=gotham&hide_border=true" width="100%" alt="GitHub Streak" />
-      </div>
+    <td width="40%" valign="top" align="center" style="border:none;">
+      <br/>
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150" alt="Coding Boy GIF"/>
     </td>
   </tr>
 </table>
 
----
+<!-- เส้นแบ่ง Rainbow -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<table width="100%" style="border:none;">
+  <tr style="border:none;">
+    <td width="50%" valign="top" align="center" style="border:none;">
+      <h3>📊 GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kitinun&theme=gotham&hide_border=true" width="100%" alt="GitHub Streak" />
+    </td>
+    <td width="50%" valign="top" align="center" style="border:none;">
+      <h3>🍩 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitinun&layout=donut&theme=gotham&hide_border=true&card_width=400" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<!-- เส้นแบ่ง Aqua -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 💻 Tech Stack & Tools
 
-<div align="center">
-  
-  <b>✨ Frontend</b><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap&perline=10" />
-  </a>
-  
-  <br/><br/>
-  
-  <b>⚙️ Backend & Database</b><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,kotlin,php,mysql&perline=10" />
-  </a>
+<details>
+  <summary><b>✨ กดเพื่อดูกล่องเครื่องมือ (Tech Stack) ทั้งหมดของผม ✨</b></summary>
+  <br/>
+  <div align="center">
+    <b>✨ Frontend</b><br/><br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap&perline=10" />
+    </a>
+    <br/><br/>
+    <b>⚙️ Backend & Database</b><br/><br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,python,java,kotlin,php,mysql&perline=10" />
+    </a>
+    <br/><br/>
+    <b>🛠 Tools & Design</b><br/><br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=npm,figma,ps,postman&perline=10" />
+    </a>
+  </div>
+</details>
 
-  <br/><br/>
+<br/>
 
-  <b>🛠 Tools & Design</b><br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,figma,ps,postman&perline=10" />
-  </a>
-  
-</div>
-
----
+<!-- เส้นแบ่ง Rainbow -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🐍 My Contributions 
 
@@ -84,5 +99,7 @@
 
 <br/>
 <div align="center">
+  <img src="https://media.giphy.com/media/L0G8hW6x8G19i/giphy.gif" width="120" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Kitinun&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>

@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Kitinun!&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Kitinun!&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Front-end%20Software%20Engineer&descAlignY=51&descAlign=62" width="100%"/>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Passionate+about+Coding;Software+Developer;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Front-end+Software+Engineer;Passionate+about+UI/UX+Design;Lifelong+Learner" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,20 +13,26 @@
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://facebook.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://youtube.com/your_channel" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </p>
 
 ---
 
-<!-- แบ่งคอลัมน์ซ้าย-ขวา -->
 <table width="100%" style="border:none;">
   <tr style="border:none;">
     <td width="50%" valign="top" style="border:none;">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🔭 I’m currently working on <b>[Project Name]</b></li>
-        <li>🌱 I’m currently learning <b>[Technology]</b></li>
-        <li>👯 I’m looking to collaborate on <b>[Ideas]</b></li>
-        <li>📫 How to reach me: <b>[Email/LinkedIn]</b></li>
+        <li>🔭 I’m currently working on <b>Front-end Web Development and crafting beautiful User Interfaces.</b></li>
+        <li>🌱 I’m currently learning <b>Modern Frameworks and Performance Optimization.</b></li>
+        <li>👯 I’m looking to collaborate on <b>Open Source Projects and UI components.</b></li>
+        <li>📫 How to reach me: <b>Via LinkedIn or Email above.</b></li>
+        <li>⚡ Fun fact: <b>I love turning coffee into code and building pixel-perfect designs! ☕💻</b></li>
       </ul>
     </td>
     <td width="50%" valign="top" style="border:none;">
@@ -53,7 +59,6 @@
 ### 🐍 My Contributions 
 
 <div align="center">
-  <!-- ภาพงูจะแสดงตรงนี้หลังจากที่คุณตั้งค่า GitHub Actions เสร็จ -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kitinun/Kitinun/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kitinun/Kitinun/output/github-contribution-grid-snake.svg">

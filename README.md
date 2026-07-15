@@ -62,17 +62,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kitinun&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Kitinun's Trophies" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Profile Views
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kitinun&theme=gotham&hide_border=true" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Kitinun&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>

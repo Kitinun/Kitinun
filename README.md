@@ -27,7 +27,7 @@
       <h3>👨‍💻 About Me</h3>
       <ul>
         <li>🔭 I’m currently working as a <b>Full Stack Developer.</b></li>
-        <li>🌱 Specializing in <b>React, Node.js, Next.js, and modern web tech.</b></li>
+        <li>🌱 Specializing in <b>React, Node.js, Next.js, and TailwindCSS.</b></li>
         <li>👯 I’m looking to collaborate on <b>innovative web applications.</b></li>
         <li>🌐 Check out my portfolio: <a href="https://kitinun-me.vercel.app/"><b>kitinun-me.vercel.app</b></a></li>
         <li>📫 How to reach me: <b>Via links above.</b></li>
@@ -61,24 +61,31 @@
 
 ### 💻 Tech Stack & Tools
 
-<details>
+<details open>
   <summary><b>✨ กดเพื่อดูกล่องเครื่องมือ (Tech Stack) ทั้งหมดของผม ✨</b></summary>
   <br/>
   <div align="center">
     <b>✨ Frontend</b><br/><br/>
+    <!-- อัปเดต: เพิ่ม TypeScript และ TailwindCSS -->
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap&perline=10" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=10" />
     </a>
     <br/><br/>
-    <b>⚙️ Backend & Database</b><br/><br/>
+    
+    <b>⚙️ Backend, Database & DevOps</b><br/><br/>
+    <!-- อัปเดต: เพิ่ม Docker และ Git -->
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,python,java,kotlin,php,mysql&perline=10" />
+      <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,docker,git&perline=10" />
     </a>
     <br/><br/>
-    <b>🛠 Tools & Design</b><br/><br/>
+    
+    <b>🛠 Tools, Design & CMS</b><br/><br/>
+    <!-- อัปเดต: เพิ่ม WordPress -->
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=npm,figma,ps,postman&perline=10" />
+      <img src="https://skillicons.dev/icons?i=npm,figma,ps,postman,wordpress&perline=10" />
     </a>
+    <br/><br/>
+    <i>* Also skilled in: MSSQL, CI/CD, Airtable, Budibase, Zoho CRM, Pipedrive, n8n, Make, LineOA, GTM, GGADS.</i>
   </div>
 </details>
 

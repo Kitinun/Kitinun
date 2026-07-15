@@ -108,11 +108,10 @@
 <br/><br/>
 
 <p align="center">
-  <!-- เปลี่ยนรูปแมวเป็น Mac GIF ที่เสถียรกว่าและไม่โดนบล็อก -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/mac.gif" width="120" />
+  <!-- กลับมาใช้น้องแมวตัวเดิมที่น่ารักและใช้งานได้ชัวร์ 100% -->
+  <img src="https://media.giphy.com/media/L0G8hW6x8G19i/giphy.gif" width="120" />
 </p>
 
 <p align="center">
-  <!-- ย้ายแท็กตัวนับวิวมาอยู่ใน p แยกต่างหาก เพื่อให้โหลดติด 100% -->
   <img src="https://komarev.com/ghpvc/?username=Kitinun&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>

@@ -13,7 +13,7 @@
   <a href="https://kitinun-me.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/your_username" target="_blank">
+  <a href="https://www.linkedin.com/in/kitinun-khonson-661443239/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:your_email@gmail.com">

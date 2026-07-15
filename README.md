@@ -105,11 +105,13 @@
   </picture>
 </div>
 
-<br/><br/>
+<br/>
+
+<br/>
 
 <p align="center">
-  <!-- กลับมาใช้น้องแมวตัวเดิมที่น่ารักและใช้งานได้ชัวร์ 100% -->
-  <img src="https://media.giphy.com/media/L0G8hW6x8G19i/giphy.gif" width="120" />
+  <!-- เปลี่ยนเป็น 3D Animated Cat จาก GitHub Server โดยตรง -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="120" />
 </p>
 
 <p align="center">

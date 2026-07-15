@@ -18,7 +18,6 @@
   </a>
 </p>
 
-<!-- เส้นแบ่ง Aqua -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <table width="100%" style="border:none;">
@@ -40,23 +39,15 @@
   </tr>
 </table>
 
-<!-- เส้นแบ่ง Rainbow -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<table width="100%" style="border:none;">
-  <tr style="border:none;">
-    <td width="50%" valign="top" align="center" style="border:none;">
-      <h3>📊 GitHub Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kitinun&theme=gotham&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-    <td width="50%" valign="top" align="center" style="border:none;">
-      <h3>🍩 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitinun&layout=donut&theme=gotham&hide_border=true&card_width=400" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>📊 GitHub Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kitinun&theme=gotham&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<!-- เส้นแบ่ง Aqua -->
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 💻 Tech Stack & Tools
@@ -66,21 +57,18 @@
   <br/>
   <div align="center">
     <b>✨ Frontend</b><br/><br/>
-    <!-- อัปเดต: เพิ่ม TypeScript และ TailwindCSS -->
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=10" />
     </a>
     <br/><br/>
     
-    <b>⚙️ Backend, Database & DevOps</b><br/><br/>
-    <!-- อัปเดต: เพิ่ม Docker และ Git -->
+    <b>⚙️ Backend, Database and DevOps</b><br/><br/>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,docker,git&perline=10" />
     </a>
     <br/><br/>
     
-    <b>🛠 Tools, Design & CMS</b><br/><br/>
-    <!-- อัปเดต: เพิ่ม WordPress -->
+    <b>🛠 Tools, Design and CMS</b><br/><br/>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=npm,figma,ps,postman,wordpress&perline=10" />
     </a>
@@ -91,7 +79,6 @@
 
 <br/>
 
-<!-- เส้นแบ่ง Rainbow -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🐍 My Contributions 

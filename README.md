@@ -53,28 +53,30 @@
 ### 💻 Tech Stack & Tools
 
 <details open>
-  <summary><b>✨ กดเพื่อดูกล่องเครื่องมือ (Tech Stack) ทั้งหมดของผม ✨</b></summary>
-  <br/>
-  <div align="center">
-    <b>✨ Frontend</b><br/><br/>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=10" />
-    </a>
-    <br/><br/>
+<summary><b>✨ กดเพื่อดูกล่องเครื่องมือ (Tech Stack) ทั้งหมดของผม ✨</b></summary>
+<br/>
+<div align="center">
+
+<b>✨ Frontend</b><br/><br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=10" />
+</a>
+<br/><br/>
     
-    <b>⚙️ Backend, Database and DevOps</b><br/><br/>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,docker,git&perline=10" />
-    </a>
-    <br/><br/>
+<b>⚙️ Backend, Database and DevOps</b><br/><br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,docker,git&perline=10" />
+</a>
+<br/><br/>
     
-    <b>🛠 Tools, Design and CMS</b><br/><br/>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=npm,figma,ps,postman,wordpress&perline=10" />
-    </a>
-    <br/><br/>
-    <i>* Also skilled in: MSSQL, CI/CD, Airtable, Budibase, Zoho CRM, Pipedrive, n8n, Make, LineOA, GTM, GGADS.</i>
-  </div>
+<b>🛠 Tools, Design and CMS</b><br/><br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=npm,figma,ps,postman,wordpress&perline=10" />
+</a>
+<br/><br/>
+<i>* Also skilled in: MSSQL, CI/CD, Airtable, Budibase, Zoho CRM, Pipedrive, n8n, Make, LineOA, GTM, GGADS.</i>
+
+</div>
 </details>
 
 <br/>

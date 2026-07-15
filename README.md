@@ -52,16 +52,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kitinun&show_icons=true&theme=gotham&hide_border=true" alt="Kitinun's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kitinun&theme=gotham&hide_border=true" alt="Kitinun's GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  
+[![Kitinun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kitinun&show_icons=true&theme=gotham&hide_border=true)](https://github.com/Kitinun)
+[![Kitinun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kitinun&theme=gotham&hide_border=true)](https://github.com/Kitinun)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitinun&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitinun&layout=compact&theme=gotham&hide_border=true)](https://github.com/Kitinun)
+
+</div>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kitinun&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=Kitinun&color=blue&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Kitinun)
+
+</div>

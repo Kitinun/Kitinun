@@ -21,13 +21,6 @@
   </a>
 </p>
 
-<!-- 🎵 SPOTIFY WIDGET 🎵 -->
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=21zedh3eytjvrpcvaltr5lfuy" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21zedh3eytjvrpcvaltr5lfuy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <table width="100%" style="border:none;">
@@ -115,9 +108,11 @@
 <br/><br/>
 
 <p align="center">
+  <!-- เปลี่ยนรูปแมวเป็น Mac GIF ที่เสถียรกว่าและไม่โดนบล็อก -->
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/mac.gif" width="120" />
 </p>
 
 <p align="center">
+  <!-- ย้ายแท็กตัวนับวิวมาอยู่ใน p แยกต่างหาก เพื่อให้โหลดติด 100% -->
   <img src="https://komarev.com/ghpvc/?username=Kitinun&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
